@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/img.png" alt="Gesture Earth Controller Banner">
+</p>
+
 # 🌍 Gesture Earth Controller
 
 Control **Google Earth** using intuitive hand gestures powered by **MediaPipe**, **OpenCV**, and **PyAutoGUI**.
