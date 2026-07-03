@@ -1,0 +1,39 @@
+"""
+Global configuration constants for Gesture Earth Controller.
+
+All application tuning parameters are centralized here to make
+gesture calibration and future adjustments easier.
+"""
+
+# Cursor
+SMOOTHENING = 2
+FRAME_REDUCTION = 40
+
+# Click & Drag
+PINCH_START_THRESHOLD = 20
+PINCH_RELEASE_THRESHOLD = 35
+CLICK_COOLDOWN = 0.4
+PINCH_DRAG_DELAY = 0.25
+CLICK_GESTURE_THRESHOLD = 45
+FOLDING_THRESHOLD = 40
+
+# Zoom
+ZOOM_THRESHOLD = 40
+ZOOM_SENSITIVITY = 15
+ZOOM_SCROLL_AMOUNT = 120
+ZOOM_COOLDOWN = 0.05
+
+# Rotate
+ROTATE_THRESHOLD = 8
+ROTATE_SPEED = 5
+ROTATE_DELAY = 0.4
+
+# Camera
+CAMERA_WIDTH = 640
+CAMERA_HEIGHT = 480
+
+# MediaPipe
+MIN_DETECTION_CONFIDENCE = 0.6
+MIN_TRACKING_CONFIDENCE = 0.6
+MODEL_COMPLEXITY = 0
+MAX_NUM_HANDS = 1
