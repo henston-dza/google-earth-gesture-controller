@@ -38,7 +38,6 @@ Gesture Earth Controller is a computer vision project that enables touch-free na
 ```text
 gesture-earth/
 │
-│
 ├── .gitignore
 ├── LICENSE
 ├── README.md
