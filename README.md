@@ -122,10 +122,7 @@ python main.py
 
 ## 🎥 Demo
 
-A full demonstration of Gesture Earth Controller is available here:
-
-🔗 LinkedIn Post:
-https://www.linkedin.com/posts/henston-melroy-dsouza_python-computervision-mediapipe-ugcPost-7478811191033643008-d7gI/utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEvlPaUBVB_3EiuU4wV9mAZEFjrA2scFFgQ
+Watch the demo on **[LinkedIn]([https://www.linkedin.com/posts/your-post-link](https://www.linkedin.com/posts/henston-melroy-dsouza_python-computervision-mediapipe-ugcPost-7478811191033643008-d7gI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvlPaUBVB_3EiuU4wV9mAZEFjrA2scFFgQ))**.
 
 ---
 
