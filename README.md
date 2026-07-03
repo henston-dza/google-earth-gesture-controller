@@ -115,17 +115,12 @@ python main.py
 | D | Toggle Hand Landmarks |
 | Q | Quit Application |
 
----
-
-## 📸 Screenshots
-
-Screenshots will be available inside the `screenshots/` folder.
 
 ---
 
 ## 🎥 Demo
 
-A demonstration video is available inside the `demo/` folder.
+Soon
 
 ---
 
