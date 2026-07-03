@@ -122,7 +122,7 @@ python main.py
 
 ## 🎥 Demo
 
-Watch the demo on **[LinkedIn]([https://www.linkedin.com/posts/your-post-link](https://www.linkedin.com/posts/henston-melroy-dsouza_python-computervision-mediapipe-ugcPost-7478811191033643008-d7gI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvlPaUBVB_3EiuU4wV9mAZEFjrA2scFFgQ))**.
+Watch the demo on **[LinkedIn](https://www.linkedin.com/posts/henston-melroy-dsouza_python-computervision-mediapipe-ugcPost-7478811191033643008-d7gI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvlPaUBVB_3EiuU4wV9mAZEFjrA2scFFgQ)**.
 
 ---
 
